@@ -7,12 +7,12 @@
     <title>The Digital Dinner</title>
 </head>
 <body>
-    <h1>The Digital Dinner</h1>
+<h1>The Digital Dinner</h1>
 
-    <p><strong>The Digital Dinner</strong> is a web application designed to allow users to browse a menu, add items to their cart, place orders, and track their order history. The application is built using a <strong>React</strong> frontend, <strong>Node.js</strong> backend, and a combination of <strong>MongoDB</strong> and <strong>PostgreSQL</strong> for database management.</p>
+<p><strong>The Digital Dinner</strong> is a web application designed to allow users to browse a menu, add items to their cart, place orders, and track their order history. The application is built using a <strong>React</strong> frontend, <strong>Node.js</strong> backend, and a combination of <strong>MongoDB</strong> and <strong>PostgreSQL</strong> for database management.</p>
 
-    <h2>Features</h2>
-    <ul>
+  <h2>Features</h2>
+<ul>
         <li><strong>Browse Menu:</strong> Users can view menu items, categorized into different sections such as appetizers, main courses, desserts, and drinks.</li>
         <li><strong>Shopping Cart:</strong> Users can add items to their cart, modify quantities, and view the total amount.</li>
         <li><strong>Checkout:</strong> Users can enter their name and phone number to place an order.</li>
@@ -21,7 +21,7 @@
         <li><strong>Responsive UI:</strong> Built using <strong>Tailwind CSS</strong>, the application is mobile-responsive and user-friendly.</li>
     </ul>
 
-    <h2>Tech Stack</h2>
+ <h2>Tech Stack</h2>
     <ul>
         <li><strong>Frontend:</strong> React (with React Router for routing and React Context API for state management), Tailwind CSS for styling, Axios for API calls.</li>
         <li><strong>Backend:</strong> Node.js with Express.</li>
