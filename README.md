@@ -28,7 +28,7 @@
         <li><strong>Database:</strong> MongoDB (for storing menu items) and PostgreSQL (for storing user orders).</li>
     </ul>
 
-    <h2>Database Design</h2>
+<h2>Database Design</h2>
 
  <h3>MongoDB Schema (for Menu Items)</h3>
     <p>Menu items are stored in MongoDB due to their flexible, unstructured nature. Each item may have nested data like ingredients and images, making MongoDB a perfect choice for this use case.</p>
